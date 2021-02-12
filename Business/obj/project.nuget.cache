@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "04+6dDPVE+Crv6Ee1UJ/H6w+bz6MiuXViZSQloNfnBQ4n9TEGG9XvOS83xeFddFo7X61Eq0HMZwgiWYdN24R3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\burcu\\source\\repos\\ReCapProject\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\burcu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\burcu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
